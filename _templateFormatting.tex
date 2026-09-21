@@ -1,0 +1,87 @@
+%%% Importing Packages
+
+% Page Formatting
+\usepackage{fancyhdr} % Creates more customisable headers and footers.
+\usepackage[
+  hmargin=0.3in,
+  vmargin=0.6in,
+  headheight=20.4pt,
+  headsep=5pt
+]{geometry} % Reduces the page margins.
+
+% Element Formatting
+\usepackage{float} % Adds greater control over where elements are placed in the document.
+\usepackage{graphicx} % Allows for images to be inserted.
+\usepackage{makecell} % Allows for multi-line cells in tables.
+
+% Text Formatting
+\usepackage{xcolor} % Introduces tools for colouring text.
+\usepackage{dirtytalk} % Adds speech and quote marks.
+\usepackage{enumitem} % Adds additional numbering systems for ordered lists.
+
+\usepackage{datetime} % Allows greater control over the format of dates.
+\usepackage{hyperref} % Simplifies hyperlinks and references.
+
+\usepackage{amsmath} % Adds additional mathematical functions.
+\usepackage{amssymb} % Introduces additional mathematical symbols.
+
+% Programming Tools
+\usepackage{algpseudocode} % Adds pseudocode boxes.
+\usepackage{algorithm} % Allows for algorithms to be inserted into the document.
+\usepackage{minted} % Adds tools for inserting snippets of code into documents.
+
+\usepackage{titlesec}
+
+%%% 
+
+
+
+%%% Custom Formatting
+
+\hypersetup{colorlinks=true, urlcolor=violet, linkcolor=violet} % Formatting URLs and links.
+
+\titleformat*{\section}{\Large\bfseries\ttfamily\color{black}}
+\titleformat*{\subsection}{\large\bfseries\ttfamily\color{black}}
+
+\setlength{\parskip}{2pt plus 1pt minus 1pt}
+
+\setlist[itemize]{
+    after=\vspace{0pt}, % Space AFTER the entire list ends
+    topsep=2pt,         % Space BEFORE the entire list starts
+    itemsep=2pt,        % Space BETWEEN individual bullet points
+    parsep=0pt          % Space between paragraphs INSIDE a single bullet point
+}
+%%%
+
+
+
+%%% Custom Commands
+
+\newcommand{\role}[1]{\noindent\color{violet}\textbf{#1}\color{black}}
+\newcommand{\addDate}[1]{\hfill#1}
+
+%%%
+
+
+
+%%% Document Setup
+
+% Custom Page Header.
+\fancyhead{}
+
+\renewcommand{\headrulewidth}{1.5pt}
+\renewcommand{\headrule}{%
+  \hbox to\headwidth{\color{violet}\leaders\hrule height \headrulewidth\hfill}%
+}
+
+\fancyhead[L]{\ttfamily Matthew Emerson}
+\fancyhead[C]{\ttfamily\email}
+\fancyhead[R]{\ttfamily\phone}
+
+% Custom Page Footer.
+\fancyfoot{}
+\fancyfoot[L]{\ttfamily\linkone}
+\fancyfoot[C]{\ttfamily\linktwo}
+\fancyfoot[R]{\ttfamily\linkthree}
+
+%%%
