@@ -22,7 +22,7 @@ Thank you for choosing to view my GitHub portfolio. This repository contains lin
 
 ### My Course Notes (Computer Science @ Durham University)
 
-- ❌ Not Currently Available...
+- 📚 [Module Summaries](https://github.com/MatthewEmer/Module-Summaries) - My summary of the content from each year of Durham University's BSc (Hons) Computer Science modules.
 
 ## Introduction to the Developer
 
