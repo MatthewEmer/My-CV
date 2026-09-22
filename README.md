@@ -30,7 +30,7 @@ Hi :wave:, I'm Matthew Emerson.
 
 I am a second-year Computer Science student at Durham University with a strong interest in data science and financial computing. I've developed communication, teamwork, and leadership skills through my work with Essex FA and other stewarding and volunteering roles and I'm now looking to build experience in finance or logistics.
 
-:page_facing_up: See my [CV here](https://github.com/MatthewEmer/My-CV/blob/main/Matthew-Emerson-CV.pdf). - outdated link
+:page_facing_up: See my [CV here](./Matthew-Emerson-CV/Matthew-Emerson-CV.pdf).
 
 ### Key Skills
 
