@@ -4,24 +4,42 @@
 
 ## Description
 
-Thank you for choosing to view my Portfolio. ...
-
-...
-
-This repository contains ...
+Thank you for choosing to view my GitHub portfolio. This repository contains links to all my publicly available GitHub projects sorted by category, as seen below.
 
 ## Content 
 
 ### Currently Working On
 
+- ⏫ I am currently spending time updating and reformatting many of my old projects.
+
 ### My Projects
+
+- 📃 [LaTeX File Template](https://github.com/MatthewEmer/LaTeX-File-Template) - A clean, reusable LaTeX document template with supporting documentation and build files for creating professional, structured academic documents.
 
 ### Academic Papers
 
-### Degree Notes
+- ❌ Not Currently Available...
 
-## Note from the Developer
+### My Course Notes (Computer Science @ Durham University)
 
-Hi :wave:, I'm Matthew Emerson. I am a second-year Computer Science student at Durham University with a strong interest in data science and financial computing. 
+- ❌ Not Currently Available...
 
-As you've scrolled all the way to the bottom of this README, please take time to look through the rest of [my GitHub profile](https://github.com/MatthewEmer).
+## Introduction to the Developer
+
+Hi :wave:, I'm Matthew Emerson. 
+
+I am a second-year Computer Science student at Durham University with a strong interest in data science and financial computing. I've developed communication, teamwork, and leadership skills through my work with Essex FA and other stewarding and volunteering roles and I'm now looking to build experience in finance or logistics.
+
+:page_facing_up: See my [CV here](https://github.com/MatthewEmer/My-CV/blob/main/Matthew-Emerson-CV.pdf). - outdated link
+
+### Key Skills
+
+:bar_chart: Spreadsheet Design
+
+:telephone_receiver: Communication
+
+:loudspeaker: Leadership
+
+:computer: Programming
+
+X ANOTHER SKILL
