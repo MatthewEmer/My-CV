@@ -6,7 +6,7 @@
   hmargin=0.3in,
   vmargin=0.6in,
   headheight=20.4pt,
-  headsep=5pt
+  headsep=6pt
 ]{geometry} % Reduces the page margins.
 
 % Element Formatting
@@ -38,11 +38,11 @@
 
 %%% Custom Formatting
 
-\hypersetup{colorlinks=true, urlcolor=violet, linkcolor=violet} % Formatting URLs and links.
+\hypersetup{colorlinks=true, urlcolor=teal, linkcolor=violet} % Formatting URLs and links.
 
-\titleformat*{\section}{\Large\bfseries\ttfamily\color{black}}
+\titleformat*{\section}{\Large\bfseries\color{black}}
 \titlespacing{\section}{0pt}{5pt plus 4pt minus 2pt}{0pt}
-\titleformat*{\subsection}{\large\bfseries\ttfamily\color{black}}
+\titleformat*{\subsection}{\large\bfseries\color{black}}
 
 \setlength{\parskip}{2pt plus 1pt minus 1pt}
 
@@ -59,7 +59,7 @@
 %%% Custom Commands
 
 \newcommand{\role}[1]{\noindent\color{violet}\textbf{#1}\color{black}}
-\newcommand{\addDate}[1]{\hfill#1}
+\newcommand{\addDate}[1]{, #1}
 
 %%%
 
@@ -75,14 +75,14 @@
   \hbox to\headwidth{\color{violet}\leaders\hrule height \headrulewidth\hfill}%
 }
 
-\fancyhead[L]{\ttfamily Matthew Emerson}
-\fancyhead[C]{\ttfamily\email}
-\fancyhead[R]{\ttfamily\phone}
+\fancyhead[L]{ Matthew Emerson}
+\fancyhead[C]{\email}
+\fancyhead[R]{\phone}
 
 % Custom Page Footer.
 \fancyfoot{}
-\fancyfoot[L]{\ttfamily\linkone}
-\fancyfoot[C]{\ttfamily\linktwo}
-\fancyfoot[R]{\ttfamily\linkthree}
+\fancyfoot[L]{\linkone}
+\fancyfoot[C]{\linktwo}
+\fancyfoot[R]{\linkthree}
 
 %%%
