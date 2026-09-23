@@ -38,7 +38,7 @@ Thank you for choosing to view my GitHub portfolio. This repository contains lin
 
 Hi :wave:, I'm Matthew Emerson. 
 
-I am a second-year Computer Science student at Durham University with a strong interest in data science and financial computing. I've developed communication, teamwork, and leadership skills through my work with Essex FA and other stewarding and volunteering roles and I'm now looking to build experience in finance or logistics.
+I am a second-year BSc Computer Science student at Durham University with a strong interest in data science and finance. I've developed communication, teamwork, and leadership skills through my work with Essex FA and other stewarding and volunteering roles. I'm now looking for summer internships where I can build experience in finance or data analytics.
 
 :page_facing_up: See [my CV here](./Matthew-Emerson-CV/Matthew-Emerson-CV.pdf).
 
