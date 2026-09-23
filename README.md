@@ -18,7 +18,15 @@ Thank you for choosing to view my GitHub portfolio. This repository contains lin
 
 ### Academic Papers
 
-- :heavy_division_sign: [Partitions](https://github.com/MatthewEmer/Discrete-Maths-Seminar-Report) - My paper written as a part of my Discrete Mathematics module during my first year. It details my understanding of partitions taught during seminars.
+#### University Work
+
+- ➗ [Partitions](https://github.com/MatthewEmer/Discrete-Maths-Seminar-Report) - My paper written as a part of my Discrete Mathematics module during my first year. It details my understanding of partitions taught during seminars.
+
+#### A-Level Work
+
+- 🥅 [EPQ](https://github.com/MatthewEmer/My-Portfolio/Archive/A-Lvl-EPQ) - My EPQ dissertation written during my A-Levels with the topic *'How will developing technology for football impact the experience for fans and players?'*.
+
+- 💻 [Computer Science Non-Examination Assessment](https://github.com/MatthewEmer/My-Portfolio/Archive/A-Lvl-Computer-Science-NEA) - My complete A-Level Computer Science NEA. It is a text-based admin platform for referees using FullTime.
 
 ### My Course Notes (Computer Science @ Durham University)
 
