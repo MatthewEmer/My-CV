@@ -18,7 +18,7 @@ Thank you for choosing to view my GitHub portfolio. This repository contains lin
 
 ### Academic Papers
 
-- :heavy_division_sign: [Partitions](https://github.com/MatthewEmer/Discrete-Maths-Seminar-Report).
+- :heavy_division_sign: [Partitions](https://github.com/MatthewEmer/Discrete-Maths-Seminar-Report) - My paper written as a part of my Discrete Mathematics module during my first year. It details my understanding of partitions taught during seminars.
 
 ### My Course Notes (Computer Science @ Durham University)
 
