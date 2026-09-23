@@ -24,9 +24,9 @@ Thank you for choosing to view my GitHub portfolio. This repository contains lin
 
 #### A-Level Work
 
-- 🥅 [Extended Project Qualification](https://github.com/MatthewEmer/My-Portfolio/Archive/A-Lvl-EPQ) - My EPQ dissertation written during my A-Levels with the topic *'How will developing technology for football impact the experience for fans and players?'*.
+- 🥅 [Extended Project Qualification](https://github.com/MatthewEmer/My-Portfolio/Archive/A-Lvl-EPQ/README.md) - My EPQ dissertation written during my A-Levels with the topic *'How will developing technology for football impact the experience for fans and players?'*.
 
-- 💻 [Computer Science Non-Examination Assessment](https://github.com/MatthewEmer/My-Portfolio/Archive/A-Lvl-Computer-Science-NEA) - My complete A-Level Computer Science NEA. It is a text-based admin platform for referees using FullTime.
+- 💻 [Computer Science Non-Examination Assessment](https://github.com/MatthewEmer/My-Portfolio/Archive/A-Lvl-Computer-Science-NEA/README.md) - My complete A-Level Computer Science NEA. It is a text-based admin platform for referees using FullTime.
 
 ### My Course Notes (Computer Science @ Durham University)
 
