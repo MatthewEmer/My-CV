@@ -16,7 +16,7 @@ Thank you for choosing to view my GitHub portfolio. This repository contains lin
 
 - 📃 [LaTeX File Template](https://github.com/MatthewEmer/LaTeX-File-Template) - A clean, reusable LaTeX document template with supporting documentation and build files for creating professional, structured academic documents. ⏫ Actively maintained.
 - 
-- 📑 [Markdown Reader](https://github.com/MatthewEmer/markdown-reader) - (Forked from [peterzy](https://github.com/peterzy)) A cross-platform local-first Markdown editor with tabbed editing with a real-time preview. 🔒 Archived.
+- 📑 [Markdown Reader](https://github.com/MatthewEmer/markdown-reader) - (Forked from [peterzy](https://github.com/petertzy)) A cross-platform local-first Markdown editor with tabbed editing with a real-time preview. 🔒 Archived.
 
 ### Academic Papers
 
