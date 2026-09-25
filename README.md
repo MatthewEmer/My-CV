@@ -18,6 +18,8 @@ Thank you for choosing to view my GitHub portfolio. This repository contains lin
 
 - 📑 [Markdown Reader](https://github.com/MatthewEmer/markdown-reader) - (Forked from [petertzy](https://github.com/petertzy)) A cross-platform local-first Markdown editor with tabbed editing with a real-time preview. 🔒 Archived.
 
+- 🎮 [Durhack X](https://github.com/MatthewEmer/Durhack-X) - A collaborative project completed during a one day hackathon in my first year at Durham University. 🔒 Archived.
+
 ### Academic Papers
 
 #### University Work
@@ -44,12 +46,12 @@ I am a second-year BSc Computer Science student at Durham University with a stro
 
 ### Key Skills
 
-:bar_chart: Spreadsheet Design
+📈 Analytical Reasoning
 
-:telephone_receiver: Communication
+📞 Communication
 
-:loudspeaker: Leadership
+📆 Project Management
 
-:computer: Programming
+📊 Data Presentation
 
-X ANOTHER SKILL
+🧑‍🤝‍🧑 Teamwork
