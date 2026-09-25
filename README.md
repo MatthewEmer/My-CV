@@ -10,7 +10,7 @@ Thank you for choosing to view my GitHub portfolio. This repository contains lin
 
 ### Currently Working On
 
-- ⏫ I am currently spending time updating and reformatting many of my old projects.
+- 📊 [REFSIX Data](https://github.com/MatthewEmer/REFSIX-Data) - A data analysis tool which uses REFSIX's REST API to collate the data from their app, and produce meaningful insights into trends and recent performances.
 
 ### My Projects
 
